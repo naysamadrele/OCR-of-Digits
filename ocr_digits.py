@@ -55,4 +55,4 @@ def main(image_path):
     cv2.waitKey(0)
     cv2.destroyAllWindows()
 
-main(r'C:\Users\Naysa\Documents\assignments\mldl\images\image1.jpg')
+main(r'image_file')
